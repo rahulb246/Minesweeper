@@ -24,9 +24,10 @@
 .boardClass {
   display: flex;
   flex-direction: column;
-  alignitems: center;
+  align-items: center;
 }
 
 button {
+  cursor: pointer;
   margin: 10px;
 }
