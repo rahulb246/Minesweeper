@@ -1,0 +1,32 @@
+/* Author : Rahul Bojanapally */
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cellStyle {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  border: 2px solid;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.dropdown {
+  display: inline;
+}
+
+.boardClass {
+  display: flex;
+  flex-direction: column;
+  alignitems: center;
+}
+
+button {
+  margin: 10px;
+}
